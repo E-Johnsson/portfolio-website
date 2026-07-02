@@ -21,7 +21,7 @@ This was my first project working with an AI coding workflow (Claude Code + VS C
 
 ## What I took from it
 
-This project is what pushed me toward a more deliberate way of working with AI-assisted development: writing a full spec before touching code, breaking builds into small single-concept slices, and understanding every piece before moving to the next one. That approach is what shaped my next project, [an AI-powered personal organizer](#) — built slice by slice, with far tighter scope control from the start.
+This project is what pushed me toward a more deliberate way of working with AI-assisted development: writing a full spec before touching code, breaking builds into small single-concept slices, and understanding every piece before moving to the next one. That approach is what shaped my next project, an AI-powered personal organizer — built slice by slice, with far tighter scope control from the start.
 
 ## Status of the code
 
